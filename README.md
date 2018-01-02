@@ -11,11 +11,13 @@ python上传excel表格数据到ftp服务器
 
 3、python订做excel表格模板样式
 
-4、python连接ftp服务器
+4、python写入excel表格数据到指定data目录
 
-5、python上传本地excel表格数据到ftp文件夹
+5、python连接ftp服务器
 
-6、linux crontab -e 定时任务
+6、python上传本地excel表格数据到ftp文件夹
+
+7、linux crontab -e 定时任务
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
