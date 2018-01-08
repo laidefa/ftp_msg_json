@@ -33,7 +33,16 @@ python上传excel表格数据到ftp服务器
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+# 效果展示
+![python上传excel表格数据到ftp服务器](https://github.com/laidefa/ftp_msg_json/raw/master/msg_json/resource/1.png)
 
+![python上传excel表格数据到ftp服务器](https://github.com/laidefa/ftp_msg_json/raw/master/msg_json/resource/2.png)
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
 # 联系我
 
 微信：laidefa
